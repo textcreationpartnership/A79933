@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deceitful spirit discovered, in its secret and mysterious working; and in the power of God is judged and condemned by one that was once ensnared thereby.</title>
+            <author>Cleevelye, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79933</idno>
+            <idno type="STC">Wing C4625A</idno>
+            <idno type="STC">ESTC R171386</idno>
+            <idno type="EEBO-CITATION">45789245</idno>
+            <idno type="OCLC">ocm 45789245</idno>
+            <idno type="VID">172555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172555)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2638:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deceitful spirit discovered, in its secret and mysterious working; and in the power of God is judged and condemned by one that was once ensnared thereby.</title>
+                  <author>Cleevelye, William.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: William Cleevelye.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172555:1" rendition="simple:additions"/>
+            <head>The Deceitful Spirit diſcovered, in its ſecret and myſterious work<g ref="char:EOLhyphen"/>ing; and in the Power of God is Judged and Condemned by one that was once enſnared thereby.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>DEar Friends, I am conſtrained, even from the powerful working and ſenſe of Gods Love in me, to write theſe Lines to you, and to acquaint you with the merciful dealings, and tender Vi<g ref="char:EOLhyphen"/>ſitations of Gods Love to me: Since I was with you at the Meeting, the Lord hath had mercy on me, even for his Seeds ſake, and hath enlightned my underſtanding, and hath convinced me of the evil for which I ſtood, and his Light hath clearly ſhewed me, that that Spirit which had led me to keep on my Hat in the time of Friends being in Prayer, was not the right ſpirit, but the evil ſpirit. O dear Friends! how is my ſtrength broken, my confidence ſpoiled, and all daſhed? which that dark ſpirit had brought forth, and I am weak as water; this is the Lords doing, he hath done it when no man could; he hath had a good regard unto me: I am overcome in the ſenſe of his Love to me, and your labour and love to mewards is made ſenſible to me. <hi>O my Soul praiſe the Lord, for his goodneſs hath not failed thee; his mercies endure for ever. O let all the Righteous Seed praiſe him for ever.</hi> This in the ſenſe of the Work of the Lord in me have I written, who through mercy am your lit<g ref="char:EOLhyphen"/>tle Brother in the Truth,</p>
+                  <closer>
+                     <signed>William Cleevelye.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>FRiends, ſince I wrote the former Lines to you, which was written and delivered to ſome Friends the firſt day of the ſixth month, 1667, at the Meeting at <hi>John Elſons,</hi> it hath been laid upon me to write ſome<g ref="char:EOLhyphen"/>thing more, by way of diſcovering the ſubtilty of that ſpirit which led me to the keeping on my Hat in the time of Friends being in Prayer: Firſt, It led my mind out to be looking at others, and got my mind there looking at the backſlidings and haltings of others, (of which indeed hath been too much.) Thus this Serpent-like ſpirit drew my mind out to be looking at the falling and back-ſliding of others, that by it he might deſtroy that ſimplicity and young birth which the Lord brought forth in me: for while I was looking out, coldneſs and deadneſs got over me within; and my mind became darkned, and the pure Life in me clouded,
+<pb n="2" facs="tcp:172555:2"/> and Meetings unprofitable to me, and I found not the ſweet refreſhments at Meetings as before, and then the ſubtilty of this Enemy of Truth was ſuch, that he ſought to beget a belief in me, that Friends were grown for<g ref="char:EOLhyphen"/>mal, and that there was not that powerfulneſs in them of the Miniſtry as formerly. Thus when this ſubtile Spirit had darkned my underſtand<g ref="char:EOLhyphen"/>ing, in that dark underſtanding he would lead me to judge others to be formal, and without the Power; but whilſt I ſtood gazing at others, the Witneſs of God aroſe in me, and bid me, <hi>Turn my mind to within;</hi> and the Light ſhewed me that I was but formal my ſelf, and it judged me and troubled me; then the wicked ſpirit ſought to pervert the Righteous Judgement of Truth in me, which judged the bad in me, and ſubtilly did infuſe into my mind, that the putting off the Hat was formal, with<g ref="char:EOLhyphen"/>out the Power, and a cuſtomary thing only by moſt that did it. Thus being under judgment, for my formal appearing in the outward, being deadned within. Now the wicked one got a perſwaſion in me to keep on my Hat; but the Spirit of the Lord ſtrove in me much, that I was not brought to it preſently; yet this dark ſpirit having gotten ſome footing in me, the pure which once ſhone in me, became ſo vailed and clouded in me, and my mind ſo full of muddle, that I could not diſcern the good Spirit from that which wrought in the myſtery of iniquity; ſo that ſubtile ſpirit pre<g ref="char:EOLhyphen"/>vailed with me to keep on my Hat in the time of Prayer. But, <hi>O what a croſs it was to the pure Seed of God in me!</hi> (though then I did not ſo diſcern it) <hi>O what pantings was in my heart, and breſt,</hi> like as it were an Hammer beating; <hi>paleneſs got over my face, and I ſweat with the ſtrivings that was in me, at the time of my ſtanding with my Hat on;</hi> and thus for many times was I, inſomuch that a queſtioning aroſe in me, whether I did wel or no? and ſometimes put my Hat off again. In this bewildered ſtate the wicked one, who worketh in the myſtery of iniquity, begot a perſwaſion in me, that it was in the croſs to my own will, and that I muſt ſtand in the croſs, and the like.</p>
+                  <p>Thus when Gods Witneſs aroſe in me, and troubled me, (the which was croſt in me) then this Enemy of Truth, who had darkned my under<g ref="char:EOLhyphen"/>ſtanding, through my giving way to his ſubtile invaſions, got in me a perſwaſion that the croſs was to my own will; ſo there was a ſtriving in me, againſt the pure in me, which ſtrove for my good, and I came to keep on my Hat, and thought I did well in ſo doing; thus having gone from <hi>the Light, which gave me a diſcerning between the good and the evil,</hi> I took the evil for the good, there being a thick cloud got over me, and I could keep on my Hat with leſs trouble and more boldneſs; then was I per<g ref="char:EOLhyphen"/>ſwaded that I was at more peace with God when I could ſtand in the <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with leſs trouble; but the Spirit of the Lord would not leave ſtriv<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:172555:2"/> with me, but pierc't through the Cloud, and <hi>judged the deadneſs, hard<g ref="char:EOLhyphen"/>neſs of heart, and unprofitableneſs;</hi> then my peace was broken which the enemy of Truth had begotten in me; for the peace which I had was not durable, neither had I true ſatisfaction in it, but doubtings and queſti<g ref="char:EOLhyphen"/>onings did ſtill ariſe; then I put it off again, and ſometimes put it off, and ſometimes on, as that ſpirit of confuſion (being let in) did ſug<g ref="char:EOLhyphen"/>geſt into my mind: thus being off, my watch, like the fool, with my eyes out of my head, the enemy ſoon got in and made ſpoyl of the good. And what did this enemy bring forth but <hi>polluted dead things,</hi> as I have decla<g ref="char:EOLhyphen"/>red, and <hi>ſtirred up enmity,</hi> and <hi>ſtrove to beget prejudice</hi> in me againſt Friends? But there was a ſweet Love ſprang up in my heart ſtill towards Friends, and the Light brought to my remembrance the abounding good<g ref="char:EOLhyphen"/>neſs of God, which flowed forth from the Light through their Veſſels, by which I was refreſhed often, and ſtrengtned in the inward man, whilſt I kept faithful to my meaſure; the remembrance of which was as a bridle to me, and did likewiſe reſtrain me from breaking forth againſt Friends, when the enemy tempted to it: for when the Lord had ſtirred up his Ser<g ref="char:EOLhyphen"/>vants to ſeek me, and in the Light found me <hi>in my ſcattered loſt ſtate,</hi> and reproved me, and exhorted me that I might return; I did not render railings, neither uſed many words, though I had in my reaſon compre<g ref="char:EOLhyphen"/>hended much to plead for the thing aforementioned; but the Power of the Lord ſtood over me, and fear fell upon me, the Witneſs being reached in me, from that of God in them, yet <hi>many ſhifting words did break forth to ſavè that alive which was for death;</hi> but when I came to commune with my own heart in ſtilneſs, waiting upon the Lord, the Witneſs which was reached in me break through the cloud, and in its Light made manifeſt the foundation upon which mine enemy hath build<g ref="char:EOLhyphen"/>ed, and judged the ground, and all the fruit that it had brought forth? Thus was I convinced of my error <hi>by the Immortal Light;</hi> then joyning to that which convinced me, I was made to ſee my own weakneſs and nakedneſs; then ſorrow ſeized upon me, yet Joy ſprang up from the pure Seed in me, and in the ſorrow and joy of my heart, was I made to take ſhame to my ſelf, and to declare to Friends my error, and alſo the goodneſs of the Lord to me, and conſulted no longer with my own fleſh<g ref="char:EOLhyphen"/>ly reaſon; then the Spirit of the Lord aroſe in me, which had lain grieved and oppreſſed in me, and judged the <hi>uſurping Oppreſſor down,</hi> and in his Light made manifeſt to me his deceivable wayes, and working with me. And dear Friends, notwithſtanding that which I have wrote to you be<g ref="char:EOLhyphen"/>fore upon my convincement, it hath further been laid upon me, and I was preſt in my Spirit to write what I have here wrote, as the Lord in his Light hath brought to my remembrance; who in mercy and long-ſuffering
+<pb facs="tcp:172555:3" rendition="simple:additions"/> ſuffering hath begotten me, and hath broken my heart, hath rent the Vail, and raiſed up the head of the oppreſſed; he hath pluckt my foot out of the ſnare, he hath judged the Oppreſſor. <hi>O go on, is the deſire of my Soul, in thy Righteous Judgment, O God, till all be deſtroyed in me, which the enemy hath brought forth; then ſhall I praiſe thee from the pure in the heart, for thou art worthy. O Lord God thou haſt mercy on me, even for thy Seeds ſake, which breathed after thee, and could not be ſatisfied in any thing but the injoyment of thy living Preſence. O Lord, when I was ſcat<g ref="char:EOLhyphen"/>tered thou ſoughteſt me out, and art bringing me even to thy fold, to feed with thy Lambs again, praiſes be unto thee; O let the Righteous Praiſe thee for ever, O Lord God of my Salvation.</hi>
+                  </p>
+                  <signed>Written by my own hand, and given to be read at the <hi>Meeting,</hi>
+                     <date>the 23. day of the ſeventh month,</date> 
+                     <hi>William Cleevelye.</hi>
+                  </signed>
+               </body>
+            </floatingText>
+            <p>The deſire of my heart is the good of all, and my end in this my writing, is not to applauſe or ſet up the Perſon of any, but muſt give the glory to God who is the Fountain of all good, and hath of the riches of his Grace given unto his Servants to be helps one to a<g ref="char:EOLhyphen"/>nother, and I have peace in what I did write: Neither have I had any ſecret reſerve or aim at any thing but the honour of Gods Immor<g ref="char:EOLhyphen"/>tal Truth, and the good of ſuch who may be deceived as I have been, or in any other manner, by the ſubtile enemy, who worketh by divers wayes to deceive; and therefore let them to whom it may come, read it without prejudice, for I can truly ſay, That I have waited in the pure fear of the Lord for what I ſhould write, and durſt not to write any thing but what was Truth: But ſome may ſay, <hi>I might have forborn to have writ what I have.</hi> To ſuch I ſay, Had not the Power of God laid it upon me I could have forborn. <hi>The Woman when ſhe had found the loſt Groat, called her Neigh<g ref="char:EOLhyphen"/>bours that they might rejoyce with her.</hi>
+            </p>
+            <closer>
+               <signed>W. C.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:172555:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
